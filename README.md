@@ -63,9 +63,10 @@ jupyter notebook Survey_Data_Visualization_Project.ipynb
 Here are some generated visuals:
 
 preferred_tools.png
-![preferred_tools]()
+![preferred_tools](https://github.com/LAXMAN7795/Survey-Data-Visualization-Project/blob/f05a6c3e4023c4da1cea7847165fe0d3717f7807/output/preferred_tools.png)
 
 learning_prefs.png
+![learning_prefs]()
 
 corr_heatmap.png
 
