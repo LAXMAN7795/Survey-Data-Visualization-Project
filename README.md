@@ -74,3 +74,4 @@ corr_heatmap.png
 ![corr_heatmap](https://github.com/LAXMAN7795/Survey-Data-Visualization-Project/blob/efbc0eeab5d9d1003bc4e180b6c570dd657e1414/output/corr_heatmap.png)
 
 Survey_Report.pdf
+![report](https://github.com/LAXMAN7795/Survey-Data-Visualization-Project/blob/0ff7908da779abad99ebd0e19f522d3ed512f91e/output/Survey_Report.pdf)
