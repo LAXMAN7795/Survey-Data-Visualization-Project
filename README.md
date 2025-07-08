@@ -66,8 +66,9 @@ preferred_tools.png
 ![preferred_tools](https://github.com/LAXMAN7795/Survey-Data-Visualization-Project/blob/f05a6c3e4023c4da1cea7847165fe0d3717f7807/output/preferred_tools.png)
 
 learning_prefs.png
-![learning_prefs]()
+![learning_prefs](https://github.com/LAXMAN7795/Survey-Data-Visualization-Project/blob/cfe4e6b9f450cc673e1c734f8dca348cf1c3b620/output/learning_prefs.png)
 
 corr_heatmap.png
+![corr_heatmap]()
 
 Survey_Report.pdf
